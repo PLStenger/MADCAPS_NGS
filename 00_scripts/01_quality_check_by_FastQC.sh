@@ -30,7 +30,7 @@
 ## 
 ## multiqc $OUTPUT
 
-WORKING_DIRECTORY=/home/fungi/MADCAPS_NGS/01_raw_data/Original_reads_16S_ITS_18S
+WORKING_DIRECTORY=/home/fungi/MADCAPS_NGS/01_raw_data/2_Filtered/Original_reads
 OUTPUT=/home/fungi/MADCAPS_NGS/02_quality_check/Original_reads_16S_ITS_18S
 
 # Make the directory (mkdir) only if not existe already(-p)
