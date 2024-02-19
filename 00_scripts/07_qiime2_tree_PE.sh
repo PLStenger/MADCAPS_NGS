@@ -19,7 +19,7 @@ eval "$(conda shell.bash hook)"
 conda activate qiime2-2021.4
 
 # I'm doing this step in order to deal the no space left in cluster :
-export TMPDIR='/scratch_vol1/fungi'
+export TMPDIR='/home/fungi'
 echo $TMPDIR
 
 #carry out a multiple seqeunce alignment using Mafft
