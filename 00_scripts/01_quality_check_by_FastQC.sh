@@ -17,7 +17,7 @@
 ## 
 ## cd $WORKING_DIRECTORY
 ## 
-## for FILE in $(ls $WORKING_DIRECTORY/*.fastq)
+## for FILE in $(ls $WORKING_DIRECTORY/*.fastq.gz)
 ## do
 ##       fastqc $FILE -o $OUTPUT
 ## done ;
@@ -41,7 +41,7 @@ conda activate fastqc
 
 cd $WORKING_DIRECTORY
 
-for FILE in $(ls $WORKING_DIRECTORY/*.fastq)
+for FILE in $(ls $WORKING_DIRECTORY/*.fastq.gz)
 do
       fastqc $FILE -o $OUTPUT
 done ;
