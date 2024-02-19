@@ -50,7 +50,7 @@
 
 
 WORKING_DIRECTORY=/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S
-OUTPUT=/home/fungi/MADCAPS_NGS/05_QIIME2/Original_reads_16S_ITS_18S_NC
+OUTPUT=/home/fungi/MADCAPS_NGS/05_QIIME2/Original_reads_16S_ITS_18S
 
 # Make the directory (mkdir) only if not existe already(-p)
 mkdir -p $OUTPUT
