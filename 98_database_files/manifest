@@ -1,9 +1,9 @@
 sample-id	forward-absolute-filepath	reverse-absolute-filepath
-sample_16	sample-16_S172_R1_001.paired.fastq.gz	sample-16_S172_R2_001.paired.fastq.gz
-sample_17	sample-17_S173_R1_001.paired.fastq.gz	sample-17_S173_R2_001.paired.fastq.gz
-sample_21	sample-21_S174_R1_001.paired.fastq.gz	sample-21_S174_R2_001.paired.fastq.gz
-sample_2	sample-2_S167_R1_001.paired.fastq.gz	sample-2_S167_R2_001.paired.fastq.gz
-sample_3	sample-3_S168_R1_001.paired.fastq.gz	sample-3_S168_R2_001.paired.fastq.gz
-sample_5	sample-5_S169_R1_001.paired.fastq.gz	sample-5_S169_R2_001.paired.fastq.gz
-sample_8	sample-8_S170_R1_001.paired.fastq.gz	sample-8_S170_R2_001.paired.fastq.gz
-sample_9	sample-9_S171_R1_001.paired.fastq.gz	sample-9_S171_R2_001.paired.fastq.gz
+sample_16	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-16_S172_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-16_S172_R2_001.paired.fastq.gz
+sample_17	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-17_S173_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-17_S173_R2_001.paired.fastq.gz
+sample_21	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-21_S174_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-21_S174_R2_001.paired.fastq.gz
+sample_2	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-2_S167_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-2_S167_R2_001.paired.fastq.gz
+sample_3	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-3_S168_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-3_S168_R2_001.paired.fastq.gz
+sample_5	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-5_S169_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-5_S169_R2_001.paired.fastq.gz
+sample_8	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-8_S170_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-8_S170_R2_001.paired.fastq.gz
+sample_9	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-9_S171_R1_001.paired.fastq.gz	/home/fungi/MADCAPS_NGS/03_cleaned_data/Original_reads_16S_ITS_18S/sample-9_S171_R2_001.paired.fastq.gz
